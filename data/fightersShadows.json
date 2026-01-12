@@ -1,0 +1,110 @@
+{
+  "energyShadows": [
+    {
+      "name": "Novi Chroni",
+      "world": 7,
+      "level": "Base",
+      "Common": "0.01x",
+      "Uncommon": "0.0105x",
+      "Rare": "0.011x",
+      "Epic": "0.0115x",
+      "Legendary": "0.012x",
+      "Mythical": "0.013x",
+      "Phantom": "0.014x",
+      "Supreme": "0.015x"
+    },
+    {
+      "name": "Novi Chroni",
+      "world": 7,
+      "level": "100",
+      "Common": "0.03x",
+      "Uncommon": "0.0315x",
+      "Rare": "0.033x",
+      "Epic": "0.0345x",
+      "Legendary": "0.036x",
+      "Mythical": "0.039x",
+      "Phantom": "0.042x",
+      "Supreme": "0.045x"
+    },
+    {
+      "name": "Ken Turbo",
+      "world": 9,
+      "level": "Base",
+      "Common": "0.02x",
+      "Uncommon": "0.021x",
+      "Rare": "0.022x",
+      "Epic": "0.023x",
+      "Legendary": "0.024x",
+      "Mythical": "0.026x",
+      "Phantom": "0.028x",
+      "Supreme": "0.03x"
+    },
+    {
+      "name": "Ken Turbo",
+      "world": 9,
+      "level": "100",
+      "Common": "0.06x",
+      "Uncommon": "0.063x",
+      "Rare": "0.066x",
+      "Epic": "0.069x",
+      "Legendary": "0.072x",
+      "Mythical": "0.078x",
+      "Phantom": "0.084x",
+      "Supreme": "0.09x"
+    }
+  ],
+  "damageShadows": [
+    {
+      "name": "Statue of God",
+      "world": 6,
+      "level": "Base",
+      "Common": "5%",
+      "Uncommon": "5.25%",
+      "Rare": "5.5%",
+      "Epic": "5.75%",
+      "Legendary": "6%",
+      "Mythical": "6.5%",
+      "Phantom": "7%",
+      "Supreme": "7.5%"
+    },
+    {
+      "name": "Statue of God",
+      "world": 6,
+      "level": "100",
+      "Common": "15%",
+      "Uncommon": "15.75%",
+      "Rare": "16.5%",
+      "Epic": "17.25%",
+      "Legendary": "18%",
+      "Mythical": "19.5%",
+      "Phantom": "21%",
+      "Supreme": "22.5%"
+    },
+    {
+      "name": "Madera",
+      "world": 8,
+      "level": "Base",
+      "Common": "8%",
+      "Uncommon": "8.4%",
+      "Rare": "8.8%",
+      "Epic": "9.2%",
+      "Legendary": "9.6%",
+      "Mythical": "10.4%",
+      "Phantom": "11.2%",
+      "Supreme": "12%"
+    },
+    {
+      "name": "Madera",
+      "world": 8,
+      "level": "100",
+      "Common": "24%",
+      "Uncommon": "25.2%",
+      "Rare": "26.4%",
+      "Epic": "27.6%",
+      "Legendary": "28.8%",
+      "Mythical": "31.2%",
+      "Phantom": "33.6%",
+      "Supreme": "36%"
+    }
+  ]
+}

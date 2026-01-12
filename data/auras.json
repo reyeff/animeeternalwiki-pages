@@ -1,0 +1,335 @@
+[
+  {
+    "id": "aura-1",
+    "name": "Luck Aura",
+    "imageUrl": "https://i.postimg.cc/G2WxzGLn/Aura-151528.png",
+    "tier": "Legendary",
+    "stats": {
+      "Star Luck": "10%"
+    }
+  },
+  {
+    "id": "aura-2",
+    "name": "Red Emperor Aura",
+    "imageUrl": "https://i.postimg.cc/Hxq93XYd/Aura-151557.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "0.1x"
+    }
+  },
+  {
+    "id": "aura-3",
+    "name": "Purpler Traitor Aura",
+    "imageUrl": "https://i.postimg.cc/Qt2JS18X/Aura-204023.png",
+    "tier": "Legendary",
+    "stats": {
+      "Energy": "0.25x"
+    }
+  },
+  {
+    "id": "aura-4",
+    "name": "Fire King Aura",
+    "imageUrl": "https://i.postimg.cc/DZ9P5Lv7/Aura-210216.png",
+    "tier": "Legendary",
+    "stats": {
+      "Drop Amount": "25%"
+    }
+  },
+  {
+    "id": "aura-5",
+    "name": "Flaming Aura",
+    "imageUrl": "https://i.postimg.cc/Bb2czb6d/Aura-210353.png",
+    "tier": "Legendary",
+    "stats": {
+      "Coin": "0.15x"
+    }
+  },
+  {
+    "id": "aura-6",
+    "name": "Statue Aura",
+    "imageUrl": "https://i.postimg.cc/Y0QfP00H/Aura-210629.png",
+    "tier": "Legendary",
+    "stats": {
+      "Energy": "0.75x"
+    }
+  },
+  {
+    "id": "aura-7",
+    "name": "Leafy Aura",
+    "imageUrl": "https://i.postimg.cc/4ypb0yyG/Aura-210812.png",
+    "tier": "Legendary",
+    "stats": {
+      "Star Luck": "25%"
+    }
+  },
+  {
+    "id": "aura-8",
+    "name": "Energetic Aura",
+    "imageUrl": "https://i.postimg.cc/d3Gmf33v/Aura-210930.png",
+    "tier": "Legendary",
+    "stats": {
+      "Energy": "1.5x"
+    }
+  },
+  {
+    "id": "aura-9",
+    "name": "Titanic Aura",
+    "imageUrl": "https://i.postimg.cc/PJ1z7JJT/Aura-211029.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "0.5x"
+    }
+  },
+  {
+    "id": "aura-10",
+    "name": "Monster Aura",
+    "imageUrl": "https://i.postimg.cc/br1H5rry/Aura-211138.png",
+    "tier": "Legendary",
+    "stats": {
+      "Energy": "2x"
+    }
+  },
+  {
+    "id": "aura-11",
+    "name": "Virtual Aura",
+    "imageUrl": "https://i.postimg.cc/hvVbYvv4/Aura-211218.png",
+    "tier": "Legendary",
+    "stats": {
+      "Drop Amount": "35%"
+    }
+  },
+  {
+    "id": "aura-12",
+    "name": "Hamon Aura",
+    "imageUrl": "https://i.postimg.cc/cCfMzCCL/Aura-211353.png",
+    "tier": "Legendary",
+    "stats": {
+      "Exp": "10%"
+    }
+  },
+  {
+    "id": "aura-13",
+    "name": "Ghoul Aura",
+    "imageUrl": "https://i.postimg.cc/SRc7PRRR/Aura-211449.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "1x"
+    }
+  },
+  {
+    "id": "aura-14",
+    "name": "Fire Captain Aura",
+    "imageUrl": "https://i.postimg.cc/kGWFHGGB/Aura-211541.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "1.5x"
+    }
+  },
+  {
+    "id": "aura-15",
+    "name": "Bloody Aura",
+    "imageUrl": "https://i.postimg.cc/nrqYWrrj/Aura-211624.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "2x"
+    }
+  },
+  {
+    "id": "aura-16",
+    "name": "Galaxy Aura",
+    "imageUrl": "https://i.postimg.cc/SRc7PRRz/Aura-211712.png",
+    "tier": "Legendary",
+    "stats": {
+      "Energy": "2.5x"
+    }
+  },
+  {
+    "id": "aura-17",
+    "name": "Pink Oni Aura",
+    "imageUrl": "https://i.postimg.cc/Fz0g6zzS/Aura-211817.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "2.5x"
+    }
+  },
+  {
+    "id": "aura-18",
+    "name": "Blue Oni Aura",
+    "imageUrl": "https://i.postimg.cc/6qCLPqqR/Aura-211840.png",
+    "tier": "Legendary",
+    "stats": {
+      "Energy": "3x"
+    }
+  },
+  {
+    "id": "aura-19",
+    "name": "Sand Aura",
+    "imageUrl": "https://i.postimg.cc/SRc7PRRc/Aura-211919.png",
+    "tier": "Legendary",
+    "stats": {
+      "Energy": "3x"
+    }
+  },
+  {
+    "id": "aura-20",
+    "name": "Ice Queen Aura",
+    "imageUrl": "https://i.postimg.cc/v8nzTqz3/Aura-212208.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "3x"
+    }
+  },
+  {
+    "id": "aura-21",
+    "name": "Psycho Aura",
+    "imageUrl": "https://i.postimg.cc/DfGg0jgx/Aura-212246.png",
+    "tier": "Legendary",
+    "stats": {
+      "Damage": "3x"
+    }
+  },
+  {
+    "id": "aura-22",
+    "name": "Candy Aura",
+    "imageUrl": "https://i.postimg.cc/kMScG1c1/Aura-212459.png",
+    "tier": "Halloween",
+    "stats": {
+      "Exp": "5%"
+    }
+  },
+  {
+    "id": "aura-23",
+    "name": "Pumpkin",
+    "imageUrl": "https://i.postimg.cc/XN58qH81/Aura-212600.png",
+    "tier": "Halloween",
+    "stats": {
+      "Coin": "0.3x"
+    }
+  },
+  {
+    "id": "aura-24",
+    "name": "Plague Aura",
+    "imageUrl": "https://i.postimg.cc/kMScG1ch/Aura-212650.png",
+    "tier": "Halloween",
+    "stats": {
+      "Star Luck": "35%"
+    }
+  },
+  {
+    "id": "aura-25",
+    "name": "Spookweb Aura",
+    "imageUrl": "https://i.postimg.cc/MZBDHPDL/Aura-212742.png",
+    "tier": "Halloween",
+    "stats": {
+      "Damage": "2x"
+    }
+  },
+  {
+    "id": "aura-26",
+    "name": "Demonflame Aura",
+    "imageUrl": "https://i.postimg.cc/QN7bC4b2/Aura-212816.png",
+    "tier": "Halloween",
+    "stats": {
+      "Energy": "2.5x"
+    }
+  },
+  {
+    "id": "aura-27",
+    "name": "Coal Aura",
+    "imageUrl": "https://i.postimg.cc/9X9p08b3/Aura-213032.png",
+    "tier": "Christmas",
+    "stats": {
+      "Energy": "0.01x"
+    }
+  },
+  {
+    "id": "aura-28",
+    "name": "Red Present Aura",
+    "imageUrl": "https://i.postimg.cc/XN58qHL6/Aura-213122.png",
+    "tier": "Christmas",
+    "stats": {
+      "Exp": "15%"
+    }
+  },
+  {
+    "id": "aura-29",
+    "name": "Peppermint Aura",
+    "imageUrl": "https://i.postimg.cc/L4PT5CDM/Aura-213214.png",
+    "tier": "Christmas",
+    "stats": {
+      "Coin": "0.4x"
+    }
+  },
+  {
+    "id": "aura-30",
+    "name": "Christmas Tree Aura",
+    "imageUrl": "https://i.postimg.cc/MZBDHP5w/Aura-213309.png",
+    "tier": "Christmas",
+    "stats": {
+      "Star Luck": "45%"
+    }
+  },
+  {
+    "id": "aura-31",
+    "name": "Presents Aura",
+    "imageUrl": "https://i.postimg.cc/pVjZrGCR/Aura-213409.png",
+    "tier": "Christmas",
+    "stats": {
+      "Drop Amount": "35%"
+    }
+  },
+  {
+    "id": "aura-32",
+    "name": "Blue Present Aura",
+    "imageUrl": "https://i.postimg.cc/kMScG1s7/Aura-213456.png",
+    "tier": "Christmas",
+    "stats": {
+      "Energy": "3.5x"
+    }
+  },
+  {
+    "id": "aura-33",
+    "name": "Krampus Aura",
+    "imageUrl": "https://i.postimg.cc/pVjZrGCW/Aura-213541.png",
+    "tier": "Christmas",
+    "stats": {
+      "Exp": "20%"
+    }
+  },
+  {
+    "id": "aura-34",
+    "name": "Burnt Gingerbread Aura",
+    "imageUrl": "https://i.postimg.cc/xjmR8x5T/Aura-213631.png",
+    "tier": "Christmas",
+    "stats": {
+      "Coin": "0.5x"
+    }
+  },
+  {
+    "id": "aura-35",
+    "name": "Grinch Aura",
+    "imageUrl": "https://i.postimg.cc/66Z0qjcp/Aura-213724.png",
+    "tier": "Christmas",
+    "stats": {
+      "Star Luck": "55%"
+    }
+  },
+  {
+    "id": "aura-36",
+    "name": "Falling Stars Aura",
+    "imageUrl": "https://i.postimg.cc/RCtRhsdF/Aura-213804.png",
+    "tier": "Christmas",
+    "stats": {
+      "Drop Amount": "40%"
+    }
+  },
+  {
+    "id": "aura-37",
+    "name": "Frost Spirit Aura",
+    "imageUrl": "https://i.postimg.cc/dQCB3H6D/Aura-213844.png",
+    "tier": "Christmas",
+    "stats": {
+      "Energy": "4x"
+    }
+  }
+]

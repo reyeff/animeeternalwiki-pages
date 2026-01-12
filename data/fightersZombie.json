@@ -1,0 +1,25 @@
+
+{
+  "energyZombie": [
+    { "name": "Bolt-8", "stats": "0.2x", "star1Stats": "1x", "star2Stats": "2x", "star3Stats": "4x" }
+  ],
+  "damageZombie": [
+    { "name": "Uncommon Zombie", "atkSpeed": "2s", "stats": "250%", "star1Stats": "375%", "star2Stats": "500%", "star3Stats": "750%" },
+    { "name": "Rare Zombie", "atkSpeed": "2s", "stats": "300%", "star1Stats": "450%", "star2Stats": "600%", "star3Stats": "900%" },
+    { "name": "Epic Zombie", "atkSpeed": "2s", "stats": "350%", "star1Stats": "525%", "star2Stats": "700%", "star3Stats": "1050%" },
+    { "name": "Legendary Zombie", "atkSpeed": "2s", "stats": "400%", "star1Stats": "600%", "star2Stats": "800%", "star3Stats": "1200%" },
+    { "name": "Mythical Zombie", "atkSpeed": "2s", "stats": "500%", "star1Stats": "750%", "star2Stats": "1000%", "star3Stats": "1500%" },
+    { "name": "Phantom Zombie", "atkSpeed": "2s", "stats": "600%", "star1Stats": "900%", "star2Stats": "1200%", "star3Stats": "1800%" },
+    { "name": "Supreme Zombie", "atkSpeed": "2s", "stats": "700%", "star1Stats": "1050%", "star2Stats": "1400%", "star3Stats": "2100%" }
+  ],
+  "enchantDamageZombie": [
+    { "name": "Common Booster", "stats": "+5% DMG", "chances": "40.46%" },
+    { "name": "Uncommon Booster", "stats": "+10% DMG", "chances": "33%" },
+    { "name": "Rare Booster", "stats": "+15% DMG", "chances": "19.9%" },
+    { "name": "Epic Booster", "stats": "+25% DMG", "chances": "5%" },
+    { "name": "Legendary Booster", "stats": "+35% DMG", "chances": "1%" },
+    { "name": "Mythical Booster", "stats": "+50% DMG", "chances": "0.5%" },
+    { "name": "Phantom Booster", "stats": "+75% DMG", "chances": "0.1%" },
+    { "name": "Supreme Booster", "stats": "+100% DMG", "chances": "0.02%" }
+  ]
+}

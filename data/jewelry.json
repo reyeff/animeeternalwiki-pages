@@ -1,0 +1,2242 @@
+[
+  {
+    "id": "bronze-neck-base",
+    "name": "Bronze Necklace",
+    "description": "The starting tier of mystic necklaces.",
+    "imageUrl": "https://i.postimg.cc/QCW4wsFC/Jewelry_014635.png",
+    "slot": "Necklace",
+    "material": "Bronze",
+    "type": "Base",
+    "tier": "Common",
+    "recipe": [
+      {
+        "name": "Bronze Necklace Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/0jJWFxzG/Jewelry_014924.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.05x"
+    }
+  },
+  {
+    "id": "silver-neck-base",
+    "name": "Silver Necklace",
+    "description": "Refined silver jewelry with improved potential.",
+    "imageUrl": "https://i.postimg.cc/L5ZCwRJP/Jewelry_014830.png",
+    "slot": "Necklace",
+    "material": "Silver",
+    "type": "Base",
+    "tier": "Uncommon",
+    "recipe": [
+      {
+        "name": "Silver Necklace Part",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/XJP1sX7T/Jewelry_014937.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.15x"
+    }
+  },
+  {
+    "id": "gold-neck-base",
+    "name": "Gold Necklace",
+    "description": "Masterwork golden jewelry for elite warriors.",
+    "imageUrl": "https://i.postimg.cc/Hn7ZRHr5/Jewelry_014838.png",
+    "slot": "Necklace",
+    "material": "Gold",
+    "type": "Base",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Gold Necklace Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/V6hZK5kw/Jewelry_015001.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.3x"
+    }
+  },
+  {
+    "id": "rosegold-neck-base",
+    "name": "Rose Gold Necklace",
+    "description": "The peak of material refinement in jewelry crafting.",
+    "imageUrl": "https://i.postimg.cc/Gts7Vr4v/Jewelry_014845.png",
+    "slot": "Necklace",
+    "material": "Rose Gold",
+    "type": "Base",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Necklace Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/MTL39XpZ/Jewelry_015016.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.55x"
+    }
+  },
+  {
+    "id": "bronze-neck-energy",
+    "name": "Bronze Energy Necklace",
+    "description": "Infused with blue crystals to boost energy levels.",
+    "imageUrl": "https://i.postimg.cc/D08rYcYM/Jewelry_020946.png",
+    "slot": "Necklace",
+    "material": "Bronze",
+    "type": "Energy",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFC/Jewelry_014635.png"
+      },
+      {
+        "name": "Bronze Necklace Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/0jJWFxzG/Jewelry_014924.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-neck-coin",
+    "name": "Bronze Coin Necklace",
+    "description": "Infused with yellow crystals to boost wealth gain.",
+    "imageUrl": "https://i.postimg.cc/4d8v50wc/Jewelry_020953.png",
+    "slot": "Necklace",
+    "material": "Bronze",
+    "type": "Coin",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFC/Jewelry_014635.png"
+      },
+      {
+        "name": "Bronze Necklace Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/0jJWFxzG/Jewelry_014924.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-neck-damage",
+    "name": "Bronze Damage Necklace",
+    "description": "Infused with red crystals for greater offensive power.",
+    "imageUrl": "https://i.postimg.cc/rmhGJHg5/Jewelry_021000.png",
+    "slot": "Necklace",
+    "material": "Bronze",
+    "type": "Damage",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFC/Jewelry_014635.png"
+      },
+      {
+        "name": "Bronze Necklace Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/0jJWFxzG/Jewelry_014924.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-neck-luck",
+    "name": "Bronze Luck Necklace",
+    "description": "Infused with green crystals to attract better fortune.",
+    "imageUrl": "https://i.postimg.cc/j586X1vP/Jewelry_021006.png",
+    "slot": "Necklace",
+    "material": "Bronze",
+    "type": "Luck",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFC/Jewelry_014635.png"
+      },
+      {
+        "name": "Bronze Necklace Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/0jJWFxzG/Jewelry_014924.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "5%"
+    }
+  },
+  {
+    "id": "silver-neck-energy",
+    "name": "Silver Energy Necklace",
+    "description": "An upgraded silver necklace infused with blue energy essence.",
+    "imageUrl": "https://i.postimg.cc/fLH7KP5X/Jewelry_021014.png",
+    "slot": "Necklace",
+    "material": "Silver",
+    "type": "Energy",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/L5ZCwRJP/Jewelry_014830.png"
+      },
+      {
+        "name": "Bronze Energy Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/D08rYcYM/Jewelry_020946.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "2.5x"
+    }
+  },
+  {
+    "id": "silver-neck-coin",
+    "name": "Silver Coin Necklace",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/90rdNBN9/Jewelry_021021.png",
+    "slot": "Necklace",
+    "material": "Silver",
+    "type": "Coin",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/L5ZCwRJP/Jewelry_014830.png"
+      },
+      {
+        "name": "Bronze Coin Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/4d8v50wc/Jewelry_020953.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "2.5x"
+    }
+  },
+  {
+    "id": "silver-neck-damage",
+    "name": "Silver Damage Necklace",
+    "description": "An upgraded silver necklace infused with blue Damage essence.",
+    "imageUrl": "https://i.postimg.cc/SRJ6tGtc/Jewelry_021031.png",
+    "slot": "Necklace",
+    "material": "Silver",
+    "type": "Damage",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/L5ZCwRJP/Jewelry_014830.png"
+      },
+      {
+        "name": "Bronze Damage Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/rmhGJHg5/Jewelry_021000.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "2.5x"
+    }
+  },
+  {
+    "id": "silver-neck-luck",
+    "name": "Silver Luck Necklace",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/2yVQXxXB/Jewelry_021039.png",
+    "slot": "Necklace",
+    "material": "Silver",
+    "type": "Luck",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/L5ZCwRJP/Jewelry_014830.png"
+      },
+      {
+        "name": "Bronze Luck Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/j586X1vP/Jewelry_021006.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "10%"
+    }
+  },
+  {
+    "id": "gold-neck-energy",
+    "name": "Gold Energy Necklace",
+    "description": "Unrivaled energy output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/x8cvFPFz/Jewelry_021047.png",
+    "slot": "Necklace",
+    "material": "Gold",
+    "type": "Energy",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Hn7ZRHr5/Jewelry_014838.png"
+      },
+      {
+        "name": "Silver Energy Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/fLH7KP5X/Jewelry_021014.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.5x"
+    }
+  },
+  {
+    "id": "gold-neck-coin",
+    "name": "Gold Coin Necklace",
+    "description": "Unrivaled Coin output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/mktY6S6N/Jewelry_021053.png",
+    "slot": "Necklace",
+    "material": "Gold",
+    "type": "Coin",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Hn7ZRHr5/Jewelry_014838.png"
+      },
+      {
+        "name": "Silver Coin Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/90rdNBN9/Jewelry_021021.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.5x"
+    }
+  },
+  {
+    "id": "gold-neck-damage",
+    "name": "Gold Damage Necklace",
+    "description": "Unrivaled Damage output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/VvdqHFHF/Jewelry_021100.png",
+    "slot": "Necklace",
+    "material": "Gold",
+    "type": "Damage",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Hn7ZRHr5/Jewelry_014838.png"
+      },
+      {
+        "name": "Silver Damage Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/VvdqHFHF/Jewelry_021100.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.5x"
+    }
+  },
+  {
+    "id": "gold-neck-luck",
+    "name": "Gold Luck Necklace",
+    "description": "Unrivaled Luck output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/90rdNBNp/Jewelry_021108.png",
+    "slot": "Necklace",
+    "material": "Gold",
+    "type": "Luck",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Hn7ZRHr5/Jewelry_014838.png"
+      },
+      {
+        "name": "Silver Luck Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/90rdNBNp/Jewelry_021108.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "20%"
+    }
+  },
+  {
+    "id": "rosegold-neck-energy",
+    "name": "Rose Gold Energy Necklace",
+    "description": "Unrivaled energy output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/zvVCPkP7/Jewelry_021117.png",
+    "slot": "Necklace",
+    "material": "Rose Gold",
+    "type": "Energy",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Gts7Vr4v/Jewelry_014845.png"
+      },
+      {
+        "name": "Gold Energy Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/x8cvFPFz/Jewelry_021047.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-neck-coin",
+    "name": "Rose Gold Coin Necklace",
+    "description": "Unrivaled Coin output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/fyJcgvgH/Jewelry_021127.png",
+    "slot": "Necklace",
+    "material": "Rose Gold",
+    "type": "Coin",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Gts7Vr4v/Jewelry_014845.png"
+      },
+      {
+        "name": "Gold Coin Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/mktY6S6N/Jewelry_021053.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-neck-damage",
+    "name": "Rose Gold Damage Necklace",
+    "description": "Unrivaled Damage output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/2yVQXxXt/Jewelry_021136.png",
+    "slot": "Necklace",
+    "material": "Rose Gold",
+    "type": "Damage",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Gts7Vr4v/Jewelry_014845.png"
+      },
+      {
+        "name": "Gold Damage Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/VvdqHFHF/Jewelry_021100.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-neck-luck",
+    "name": "Rose Gold Luck Necklace",
+    "description": "Unrivaled Luck output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/7hf3QNQt/Jewelry_021142.png",
+    "slot": "Necklace",
+    "material": "Rose Gold",
+    "type": "Luck",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Gts7Vr4v/Jewelry_014845.png"
+      },
+      {
+        "name": "Gold Luck Necklace",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/90rdNBNp/Jewelry_021108.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "35%"
+    }
+  },
+  {
+    "id": "bronze-ring-base",
+    "name": "Bronze Ring",
+    "description": "The starting tier of mystic Rings.",
+    "imageUrl": "https://i.postimg.cc/dVnZyxBf/Jewelry_031511.png",
+    "slot": "Ring",
+    "material": "Bronze",
+    "type": "Base",
+    "tier": "Common",
+    "recipe": [
+      {
+        "name": "Bronze Ring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/FzJW8mYj/Jewelry_014919.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.05x"
+    }
+  },
+  {
+    "id": "silver-ring-base",
+    "name": "Silver Ring",
+    "description": "Refined silver jewelry with improved potential.",
+    "imageUrl": "https://i.postimg.cc/Vk40CVRV/Jewelry_031517.png",
+    "slot": "Ring",
+    "material": "Silver",
+    "type": "Base",
+    "tier": "Uncommon",
+    "recipe": [
+      {
+        "name": "Silver Ring Part",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/xCZp6q1r/Jewelry_014930.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.15x"
+    }
+  },
+  {
+    "id": "gold-ring-base",
+    "name": "Gold Ring",
+    "description": "Masterwork golden jewelry for elite warriors.",
+    "imageUrl": "https://i.postimg.cc/sgKGhNcb/Jewelry_031522.png",
+    "slot": "Ring",
+    "material": "Gold",
+    "type": "Base",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Gold Ring Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/gJ7tgr2W/Jewelry_014953.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.3x"
+    }
+  },
+  {
+    "id": "rosegold-ring-base",
+    "name": "Rose Gold Ring",
+    "description": "The peak of material refinement in jewelry crafting.",
+    "imageUrl": "https://i.postimg.cc/pLk5F6Z4/Jewelry_031530.png",
+    "slot": "Ring",
+    "material": "Rose Gold",
+    "type": "Base",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Ring Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/KzWp048Z/Jewelry_015010.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.55x"
+    }
+  },
+  {
+    "id": "bronze-ring-energy",
+    "name": "Bronze Energy Ring",
+    "description": "Infused with blue crystals to boost energy levels.",
+    "imageUrl": "https://i.postimg.cc/rwgRrPj2/Jewelry_031537.png",
+    "slot": "Ring",
+    "material": "Bronze",
+    "type": "Energy",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/dVnZyxBf/Jewelry_031511.png"
+      },
+      {
+        "name": "Bronze Ring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/FzJW8mYj/Jewelry_014919.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-ring-coin",
+    "name": "Bronze Coin Ring",
+    "description": "Infused with yellow crystals to boost wealth gain.",
+    "imageUrl": "https://i.postimg.cc/dVnZyxBb/Jewelry_031545.png",
+    "slot": "Ring",
+    "material": "Bronze",
+    "type": "Coin",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/dVnZyxBf/Jewelry_031511.png"
+      },
+      {
+        "name": "Bronze Ring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/FzJW8mYj/Jewelry_014919.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-ring-damage",
+    "name": "Bronze Damage Ring",
+    "description": "Infused with red crystals for greater offensive power.",
+    "imageUrl": "https://i.postimg.cc/htMQd5sW/Jewelry_031553.png",
+    "slot": "Ring",
+    "material": "Bronze",
+    "type": "Damage",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/dVnZyxBf/Jewelry_031511.png"
+      },
+      {
+        "name": "Bronze Ring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/FzJW8mYj/Jewelry_014919.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-ring-luck",
+    "name": "Bronze Luck Ring",
+    "description": "Infused with green crystals to attract better fortune.",
+    "imageUrl": "https://i.postimg.cc/mgV1H5jG/Jewelry_031604.png",
+    "slot": "Ring",
+    "material": "Bronze",
+    "type": "Luck",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/dVnZyxBf/Jewelry_031511.png"
+      },
+      {
+        "name": "Bronze Ring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/FzJW8mYj/Jewelry_014919.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "5%"
+    }
+  },
+  {
+    "id": "silver-ring-energy",
+    "name": "Silver Energy Ring",
+    "description": "An upgraded silver Ring infused with blue energy essence.",
+    "imageUrl": "https://i.postimg.cc/0yZKwBnP/Jewelry_031610.png",
+    "slot": "Ring",
+    "material": "Silver",
+    "type": "Energy",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Vk40CVRV/Jewelry_031517.png"
+      },
+      {
+        "name": "Bronze Energy Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/rwgRrPj2/Jewelry_031537.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "2.5x"
+    }
+  },
+  {
+    "id": "silver-ring-coin",
+    "name": "Silver Coin Ring",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/dVnZyx6F/Jewelry_031714.png",
+    "slot": "Ring",
+    "material": "Silver",
+    "type": "Coin",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Vk40CVRV/Jewelry_031517.png"
+      },
+      {
+        "name": "Bronze Coin Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/dVnZyxBb/Jewelry_031545.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "2.5x"
+    }
+  },
+  {
+    "id": "silver-ring-damage",
+    "name": "Silver Damage Ring",
+    "description": "An upgraded silver Ring infused with blue Damage essence.",
+    "imageUrl": "https://i.postimg.cc/Vk40CVg1/Jewelry_031721.png",
+    "slot": "Ring",
+    "material": "Silver",
+    "type": "Damage",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Vk40CVRV/Jewelry_031517.png"
+      },
+      {
+        "name": "Bronze Damage Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/htMQd5sW/Jewelry_031553.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "2.5x"
+    }
+  },
+  {
+    "id": "silver-ring-luck",
+    "name": "Silver Luck Ring",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/rpm0CNnb/Jewelry_031727.png",
+    "slot": "Ring",
+    "material": "Silver",
+    "type": "Luck",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Vk40CVRV/Jewelry_031517.png"
+      },
+      {
+        "name": "Bronze Luck Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/mgV1H5jG/Jewelry_031604.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "10%"
+    }
+  },
+  {
+    "id": "gold-ring-energy",
+    "name": "Gold Energy Ring",
+    "description": "Unrivaled energy output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/9fMRtYg3/Jewelry_031741.png",
+    "slot": "Ring",
+    "material": "Gold",
+    "type": "Energy",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sgKGhNcb/Jewelry_031522.png"
+      },
+      {
+        "name": "Silver Energy Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/0yZKwBnP/Jewelry_031610.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.5x"
+    }
+  },
+  {
+    "id": "gold-ring-coin",
+    "name": "Gold Coin Ring",
+    "description": "Unrivaled Coin output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/xdCJy3xW/Jewelry_031748.png",
+    "slot": "Ring",
+    "material": "Gold",
+    "type": "Coin",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sgKGhNcb/Jewelry_031522.png"
+      },
+      {
+        "name": "Silver Coin Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/dVnZyx6F/Jewelry_031714.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.5x"
+    }
+  },
+  {
+    "id": "gold-ring-damage",
+    "name": "Gold Damage Ring",
+    "description": "Unrivaled Damage output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/zfBbSFts/Jewelry_031754.png",
+    "slot": "Ring",
+    "material": "Gold",
+    "type": "Damage",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sgKGhNcb/Jewelry_031522.png"
+      },
+      {
+        "name": "Silver Damage Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Vk40CVg1/Jewelry_031721.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.5x"
+    }
+  },
+  {
+    "id": "gold-ring-luck",
+    "name": "Gold Luck Ring",
+    "description": "Unrivaled Luck output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/g0JXqHtF/Jewelry_031806.png",
+    "slot": "Ring",
+    "material": "Gold",
+    "type": "Luck",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sgKGhNcb/Jewelry_031522.png"
+      },
+      {
+        "name": "Silver Luck Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/rpm0CNnb/Jewelry_031727.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "20%"
+    }
+  },
+  {
+    "id": "rosegold-ring-energy",
+    "name": "Rose Gold Energy Ring",
+    "description": "Unrivaled energy output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/hGjzb1ZB/Jewelry_031815.png",
+    "slot": "Ring",
+    "material": "Rose Gold",
+    "type": "Energy",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/pLk5F6Z4/Jewelry_031530.png"
+      },
+      {
+        "name": "Gold Energy Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/9fMRtYg3/Jewelry_031741.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-ring-coin",
+    "name": "Rose Gold Coin Ring",
+    "description": "Unrivaled Coin output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/k546FvYq/Jewelry_031821.png",
+    "slot": "Ring",
+    "material": "Rose Gold",
+    "type": "Coin",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/pLk5F6Z4/Jewelry_031530.png"
+      },
+      {
+        "name": "Gold Coin Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/xdCJy3xW/Jewelry_031748.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-ring-damage",
+    "name": "Rose Gold Damage Ring",
+    "description": "Unrivaled Damage output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/mrDzNypT/Jewelry_031830.png",
+    "slot": "Ring",
+    "material": "Rose Gold",
+    "type": "Damage",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/pLk5F6Z4/Jewelry_031530.png"
+      },
+      {
+        "name": "Gold Damage Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/zfBbSFts/Jewelry_031754.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-ring-luck",
+    "name": "Rose Gold Luck Ring",
+    "description": "Unrivaled Luck output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/fbLtjfqW/Jewelry_031835.png",
+    "slot": "Ring",
+    "material": "Rose Gold",
+    "type": "Luck",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/pLk5F6Z4/Jewelry_031530.png"
+      },
+      {
+        "name": "Gold Luck Ring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/g0JXqHtF/Jewelry_031806.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "35%"
+    }
+  },
+  {
+    "id": "bronze-earring-base",
+    "name": "Bronze Earring",
+    "description": "The starting tier of mystic Earrings.",
+    "imageUrl": "https://i.postimg.cc/766zwGCv/Jewelry_061229.png",
+    "slot": "Earring",
+    "material": "Bronze",
+    "type": "Base",
+    "tier": "Common",
+    "recipe": [
+      {
+        "name": "Bronze Earring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/SRzT3qn0/Jewelry_015023.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.05x"
+    }
+  },
+  {
+    "id": "silver-earring-base",
+    "name": "Silver Earring",
+    "description": "Refined silver jewelry with improved potential.",
+    "imageUrl": "https://i.postimg.cc/s2KWk92f/Jewelry_061236.png",
+    "slot": "Earring",
+    "material": "Silver",
+    "type": "Base",
+    "tier": "Uncommon",
+    "recipe": [
+      {
+        "name": "Silver Earring Part",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/7hTsdD58/Jewelry_015029.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.15x"
+    }
+  },
+  {
+    "id": "gold-earring-base",
+    "name": "Gold Earring",
+    "description": "Masterwork golden jewelry for elite warriors.",
+    "imageUrl": "https://i.postimg.cc/bJJnpDZK/Jewelry_061243.png",
+    "slot": "Earring",
+    "material": "Gold",
+    "type": "Base",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Gold Earring Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/zvRt65yY/Jewelry_015036.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.3x"
+    }
+  },
+  {
+    "id": "rosegold-earring-base",
+    "name": "Rose Gold Earring",
+    "description": "The peak of material refinement in jewelry crafting.",
+    "imageUrl": "https://i.postimg.cc/sXXWsQMk/Jewelry_061250.png",
+    "slot": "Earring",
+    "material": "Rose Gold",
+    "type": "Base",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Earring Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/1XNC2P8P/Jewelry_015042.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.55x"
+    }
+  },
+  {
+    "id": "bronze-earring-energy",
+    "name": "Bronze Energy Earring",
+    "description": "Infused with blue crystals to boost energy levels.",
+    "imageUrl": "https://i.postimg.cc/pTTjRh9M/Jewelry_061257.png",
+    "slot": "Earring",
+    "material": "Bronze",
+    "type": "Energy",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/766zwGCv/Jewelry_061229.png"
+      },
+      {
+        "name": "Bronze Earring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/SRzT3qn0/Jewelry_015023.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-earring-coin",
+    "name": "Bronze Coin Earring",
+    "description": "Infused with yellow crystals to boost wealth gain.",
+    "imageUrl": "https://i.postimg.cc/qRRK4htV/Jewelry_061306.png",
+    "slot": "Earring",
+    "material": "Bronze",
+    "type": "Coin",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/766zwGCv/Jewelry_061229.png"
+      },
+      {
+        "name": "Bronze Earring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/SRzT3qn0/Jewelry_015023.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-earring-damage",
+    "name": "Bronze Damage Earring",
+    "description": "Infused with red crystals for greater offensive power.",
+    "imageUrl": "https://i.postimg.cc/Qtt7h9B3/Jewelry_061313.png",
+    "slot": "Earring",
+    "material": "Bronze",
+    "type": "Damage",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/766zwGCv/Jewelry_061229.png"
+      },
+      {
+        "name": "Bronze Earring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/SRzT3qn0/Jewelry_015023.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-earring-luck",
+    "name": "Bronze Luck Earring",
+    "description": "Infused with green crystals to attract better fortune.",
+    "imageUrl": "https://i.postimg.cc/ZRRN4B94/Jewelry_061320.png",
+    "slot": "Earring",
+    "material": "Bronze",
+    "type": "Luck",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/766zwGCv/Jewelry_061229.png"
+      },
+      {
+        "name": "Bronze Earring Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/SRzT3qn0/Jewelry_015023.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "5%"
+    }
+  },
+  {
+    "id": "silver-earring-energy",
+    "name": "Silver Energy Earring",
+    "description": "An upgraded silver Earring infused with blue energy essence.",
+    "imageUrl": "https://i.postimg.cc/d11Cwk7Q/Jewelry_061328.png",
+    "slot": "Earring",
+    "material": "Silver",
+    "type": "Energy",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/s2KWk92f/Jewelry_061236.png"
+      },
+      {
+        "name": "Bronze Energy Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/pTTjRh9M/Jewelry_061257.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "2.5x"
+    }
+  },
+  {
+    "id": "silver-earring-coin",
+    "name": "Silver Coin Earring",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/d11Cwk7V/Jewelry_061334.png",
+    "slot": "Earring",
+    "material": "Silver",
+    "type": "Coin",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/s2KWk92f/Jewelry_061236.png"
+      },
+      {
+        "name": "Bronze Coin Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/qRRK4htV/Jewelry_061306.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "2.5x"
+    }
+  },
+  {
+    "id": "silver-earring-damage",
+    "name": "Silver Damage Earring",
+    "description": "An upgraded silver Earring infused with blue Damage essence.",
+    "imageUrl": "https://i.postimg.cc/HxxMdcJL/Jewelry_061342.png",
+    "slot": "Earring",
+    "material": "Silver",
+    "type": "Damage",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/s2KWk92f/Jewelry_061236.png"
+      },
+      {
+        "name": "Bronze Damage Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Qtt7h9B3/Jewelry_061313.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "2.5x"
+    }
+  },
+  {
+    "id": "silver-earring-luck",
+    "name": "Silver Luck Earring",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/d11Cwk73/Jewelry_061348.png",
+    "slot": "Earring",
+    "material": "Silver",
+    "type": "Luck",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/s2KWk92f/Jewelry_061236.png"
+      },
+      {
+        "name": "Bronze Luck Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/ZRRN4B94/Jewelry_061320.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "10%"
+    }
+  },
+  {
+    "id": "gold-earring-energy",
+    "name": "Gold Energy Earring",
+    "description": "Unrivaled energy output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/mDD9Bzch/Jewelry_061355.png",
+    "slot": "Earring",
+    "material": "Gold",
+    "type": "Energy",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/bJJnpDZK/Jewelry_061243.png"
+      },
+      {
+        "name": "Silver Energy Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/d11Cwk7Q/Jewelry_061328.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.5x"
+    }
+  },
+  {
+    "id": "gold-earring-coin",
+    "name": "Gold Coin Earring",
+    "description": "Unrivaled Coin output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/LXXP2Yqn/Jewelry_061401.png",
+    "slot": "Earring",
+    "material": "Gold",
+    "type": "Coin",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/bJJnpDZK/Jewelry_061243.png"
+      },
+      {
+        "name": "Silver Coin Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/d11Cwk7V/Jewelry_061334.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.5x"
+    }
+  },
+  {
+    "id": "gold-earring-damage",
+    "name": "Gold Damage Earring",
+    "description": "Unrivaled Damage output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/766zwGC5/Jewelry_061407.png",
+    "slot": "Earring",
+    "material": "Gold",
+    "type": "Damage",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/bJJnpDZK/Jewelry_061243.png"
+      },
+      {
+        "name": "Silver Damage Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/HxxMdcJL/Jewelry_061342.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.5x"
+    }
+  },
+  {
+    "id": "gold-earring-luck",
+    "name": "Gold Luck Earring",
+    "description": "Unrivaled Luck output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/hjjmczJJ/Jewelry_061413.png",
+    "slot": "Earring",
+    "material": "Gold",
+    "type": "Luck",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/bJJnpDZK/Jewelry_061243.png"
+      },
+      {
+        "name": "Silver Luck Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/d11Cwk73/Jewelry_061348.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "20%"
+    }
+  },
+  {
+    "id": "rosegold-earring-energy",
+    "name": "Rose Gold Energy Earring",
+    "description": "Unrivaled energy output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/V66tmrSr/Jewelry_061418.png",
+    "slot": "Earring",
+    "material": "Rose Gold",
+    "type": "Energy",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sXXWsQMk/Jewelry_061250.png"
+      },
+      {
+        "name": "Gold Energy Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/mDD9Bzch/Jewelry_061355.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-earring-coin",
+    "name": "Rose Gold Coin Earring",
+    "description": "Unrivaled Coin output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/NMMXB9y2/Jewelry_061506.png",
+    "slot": "Earring",
+    "material": "Rose Gold",
+    "type": "Coin",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sXXWsQMk/Jewelry_061250.png"
+      },
+      {
+        "name": "Gold Coin Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/LXXP2Yqn/Jewelry_061401.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-earring-damage",
+    "name": "Rose Gold Damage Earring",
+    "description": "Unrivaled Damage output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/B66F4L8K/Jewelry_061512.png",
+    "slot": "Earring",
+    "material": "Rose Gold",
+    "type": "Damage",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sXXWsQMk/Jewelry_061250.png"
+      },
+      {
+        "name": "Gold Damage Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/766zwGC5/Jewelry_061407.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-earring-luck",
+    "name": "Rose Gold Luck Earring",
+    "description": "Unrivaled Luck output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/j55ftwWN/Jewelry_061517.png",
+    "slot": "Earring",
+    "material": "Rose Gold",
+    "type": "Luck",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/sXXWsQMk/Jewelry_061250.png"
+      },
+      {
+        "name": "Gold Luck Earring",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/hjjmczJJ/Jewelry_061413.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "35%"
+    }
+  },
+  {
+    "id": "bronze-bracelet-base",
+    "name": "Bronze Bracelet",
+    "description": "The starting tier of mystic Bracelets.",
+    "imageUrl": "https://i.postimg.cc/D00RrgSh/Jewelry_062504.png",
+    "slot": "Bracelet",
+    "material": "Bronze",
+    "type": "Base",
+    "tier": "Common",
+    "recipe": [
+      {
+        "name": "Bronze Bracelet Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFj/Jewelry_015052.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.05x"
+    }
+  },
+  {
+    "id": "silver-bracelet-base",
+    "name": "Silver Bracelet",
+    "description": "Refined silver jewelry with improved potential.",
+    "imageUrl": "https://i.postimg.cc/gjj1VDxb/Jewelry_062510.png",
+    "slot": "Bracelet",
+    "material": "Silver",
+    "type": "Base",
+    "tier": "Uncommon",
+    "recipe": [
+      {
+        "name": "Silver Bracelet Part",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/mkFXJRPZ/Jewelry_015059.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.15x"
+    }
+  },
+  {
+    "id": "gold-bracelet-base",
+    "name": "Gold Bracelet",
+    "description": "Masterwork golden jewelry for elite warriors.",
+    "imageUrl": "https://i.postimg.cc/cCCPRmvS/Jewelry_062516.png",
+    "slot": "Bracelet",
+    "material": "Gold",
+    "type": "Base",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Gold Bracelet Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/Bb1Yksjn/Jewelry_015105.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.3x"
+    }
+  },
+  {
+    "id": "rosegold-bracelet-base",
+    "name": "Rose Gold Bracelet",
+    "description": "The peak of material refinement in jewelry crafting.",
+    "imageUrl": "https://i.postimg.cc/vTTCrz4F/Jewelry_062527.png",
+    "slot": "Bracelet",
+    "material": "Rose Gold",
+    "type": "Base",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Bracelet Part",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/L5ZCwRJX/Jewelry_015113.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.55x"
+    }
+  },
+  {
+    "id": "bronze-bracelet-energy",
+    "name": "Bronze Energy Bracelet",
+    "description": "Infused with blue crystals to boost energy levels.",
+    "imageUrl": "https://i.postimg.cc/MHHg7Dnx/Jewelry_062548.png",
+    "slot": "Bracelet",
+    "material": "Bronze",
+    "type": "Energy",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/D00RrgSh/Jewelry_062504.png"
+      },
+      {
+        "name": "Bronze Bracelet Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFj/Jewelry_015052.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-bracelet-coin",
+    "name": "Bronze Coin Bracelet",
+    "description": "Infused with yellow crystals to boost wealth gain.",
+    "imageUrl": "https://i.postimg.cc/x88BvRXn/Jewelry_062554.png",
+    "slot": "Bracelet",
+    "material": "Bronze",
+    "type": "Coin",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/D00RrgSh/Jewelry_062504.png"
+      },
+      {
+        "name": "Bronze Bracelet Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFj/Jewelry_015052.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-bracelet-damage",
+    "name": "Bronze Damage Bracelet",
+    "description": "Infused with red crystals for greater offensive power.",
+    "imageUrl": "https://i.postimg.cc/2yygQw1C/Jewelry_062600.png",
+    "slot": "Bracelet",
+    "material": "Bronze",
+    "type": "Damage",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/D00RrgSh/Jewelry_062504.png"
+      },
+      {
+        "name": "Bronze Bracelet Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFj/Jewelry_015052.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.1x"
+    }
+  },
+  {
+    "id": "bronze-bracelet-luck",
+    "name": "Bronze Luck Bracelet",
+    "description": "Infused with green crystals to attract better fortune.",
+    "imageUrl": "https://i.postimg.cc/MHHg7DnW/Jewelry_062609.png",
+    "slot": "Bracelet",
+    "material": "Bronze",
+    "type": "Luck",
+    "tier": "Rare",
+    "recipe": [
+      {
+        "name": "Bronze Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/D00RrgSh/Jewelry_062504.png"
+      },
+      {
+        "name": "Bronze Bracelet Part",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/QCW4wsFj/Jewelry_015052.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 10,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "5%"
+    }
+  },
+  {
+    "id": "silver-bracelet-energy",
+    "name": "Silver Energy Bracelet",
+    "description": "An upgraded silver Bracelet infused with blue energy essence.",
+    "imageUrl": "https://i.postimg.cc/j22BHXDd/Jewelry_062615.png",
+    "slot": "Bracelet",
+    "material": "Silver",
+    "type": "Energy",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/gjj1VDxb/Jewelry_062510.png"
+      },
+      {
+        "name": "Bronze Energy Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/MHHg7Dnx/Jewelry_062548.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "2.5x"
+    }
+  },
+  {
+    "id": "silver-bracelet-coin",
+    "name": "Silver Coin Bracelet",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/Gtt6FQ4L/Jewelry_062620.png",
+    "slot": "Bracelet",
+    "material": "Silver",
+    "type": "Coin",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/gjj1VDxb/Jewelry_062510.png"
+      },
+      {
+        "name": "Bronze Coin Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/x88BvRXn/Jewelry_062554.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "2.5x"
+    }
+  },
+  {
+    "id": "silver-bracelet-damage",
+    "name": "Silver Damage Bracelet",
+    "description": "An upgraded silver Bracelet infused with blue Damage essence.",
+    "imageUrl": "https://i.postimg.cc/FzzwyZYF/Jewelry_062626.png",
+    "slot": "Bracelet",
+    "material": "Silver",
+    "type": "Damage",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/gjj1VDxb/Jewelry_062510.png"
+      },
+      {
+        "name": "Bronze Damage Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/2yygQw1C/Jewelry_062600.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "2.5x"
+    }
+  },
+  {
+    "id": "silver-bracelet-luck",
+    "name": "Silver Luck Bracelet",
+    "description": "Advanced silver jewelry that attracts massive fortune.",
+    "imageUrl": "https://i.postimg.cc/3NNzXBkx/Jewelry_062632.png",
+    "slot": "Bracelet",
+    "material": "Silver",
+    "type": "Luck",
+    "tier": "Epic",
+    "recipe": [
+      {
+        "name": "Silver Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/gjj1VDxb/Jewelry_062510.png"
+      },
+      {
+        "name": "Bronze Luck Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/MHHg7DnW/Jewelry_062609.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 20,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "10%"
+    }
+  },
+  {
+    "id": "gold-bracelet-energy",
+    "name": "Gold Energy Bracelet",
+    "description": "Unrivaled energy output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/fyy1cKVy/Jewelry_062638.png",
+    "slot": "Bracelet",
+    "material": "Gold",
+    "type": "Energy",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/cCCPRmvS/Jewelry_062516.png"
+      },
+      {
+        "name": "Silver Energy Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/j22BHXDd/Jewelry_062615.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.5x"
+    }
+  },
+  {
+    "id": "gold-bracelet-coin",
+    "name": "Gold Coin Bracelet",
+    "description": "Unrivaled Coin output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/QCCvQbFt/Jewelry_062645.png",
+    "slot": "Bracelet",
+    "material": "Gold",
+    "type": "Coin",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/cCCPRmvS/Jewelry_062516.png"
+      },
+      {
+        "name": "Silver Coin Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/Gtt6FQ4L/Jewelry_062620.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.5x"
+    }
+  },
+  {
+    "id": "gold-bracelet-damage",
+    "name": "Gold Damage Bracelet",
+    "description": "Unrivaled Damage output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/prr3fZmy/Jewelry_062650.png",
+    "slot": "Bracelet",
+    "material": "Gold",
+    "type": "Damage",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/cCCPRmvS/Jewelry_062516.png"
+      },
+      {
+        "name": "Silver Damage Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/FzzwyZYF/Jewelry_062626.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.5x"
+    }
+  },
+  {
+    "id": "gold-bracelet-luck",
+    "name": "Gold Luck Bracelet",
+    "description": "Unrivaled Luck output from the finest Gold.",
+    "imageUrl": "https://i.postimg.cc/NFFZ64K5/Jewelry_062656.png",
+    "slot": "Bracelet",
+    "material": "Gold",
+    "type": "Luck",
+    "tier": "Legendary",
+    "recipe": [
+      {
+        "name": "Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/cCCPRmvS/Jewelry_062516.png"
+      },
+      {
+        "name": "Silver Luck Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/3NNzXBkx/Jewelry_062632.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "20%"
+    }
+  },
+  {
+    "id": "rosegold-bracelet-energy",
+    "name": "Rose Gold Energy Bracelet",
+    "description": "Unrivaled energy output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/Vvv2qRJJ/Jewelry_062702.png",
+    "slot": "Bracelet",
+    "material": "Rose Gold",
+    "type": "Energy",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/vTTCrz4F/Jewelry_062527.png"
+      },
+      {
+        "name": "Gold Energy Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/fyy1cKVy/Jewelry_062638.png"
+      },
+      {
+        "name": "Blue Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/PrLnnpL4/Jewelry_022112.png"
+      }
+    ],
+    "stats": {
+      "Energy": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-bracelet-coin",
+    "name": "Rose Gold Coin Bracelet",
+    "description": "Unrivaled Coin output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/NFnSpHXB/Jewelry_062709.png",
+    "slot": "Bracelet",
+    "material": "Rose Gold",
+    "type": "Coin",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/vTTCrz4F/Jewelry_062527.png"
+      },
+      {
+        "name": "Gold Coin Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/QCCvQbFt/Jewelry_062645.png"
+      },
+      {
+        "name": "Yellow Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/dt7cck7j/Jewelry_022054.png"
+      }
+    ],
+    "stats": {
+      "Coin": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-bracelet-damage",
+    "name": "Rose Gold Damage Bracelet",
+    "description": "Unrivaled Damage output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/5yrTnCz1/Jewelry_062715.png",
+    "slot": "Bracelet",
+    "material": "Rose Gold",
+    "type": "Damage",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/vTTCrz4F/Jewelry_062527.png"
+      },
+      {
+        "name": "Gold Damage Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/prr3fZmy/Jewelry_062650.png"
+      },
+      {
+        "name": "Red Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/28qNNbqx/Jewelry_022100.png"
+      }
+    ],
+    "stats": {
+      "Damage": "0.75x"
+    }
+  },
+  {
+    "id": "rosegold-bracelet-luck",
+    "name": "Rose Gold Luck Bracelet",
+    "description": "Unrivaled Luck output from the finest rose gold.",
+    "imageUrl": "https://i.postimg.cc/hvY6pdmK/Jewelry_062720.png",
+    "slot": "Bracelet",
+    "material": "Rose Gold",
+    "type": "Luck",
+    "tier": "Mythical",
+    "recipe": [
+      {
+        "name": "Rose Gold Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/vTTCrz4F/Jewelry_062527.png"
+      },
+      {
+        "name": "Gold Luck Bracelet",
+        "amount": 1,
+        "imageUrl": "https://i.postimg.cc/NFFZ64K5/Jewelry_062656.png"
+      },
+      {
+        "name": "Green Crystal",
+        "amount": 30,
+        "imageUrl": "https://i.postimg.cc/GhBnn8BJ/Jewelry_022106.png"
+      }
+    ],
+    "stats": {
+      "Luck": "35%"
+    }
+  }
+]

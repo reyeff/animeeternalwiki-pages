@@ -1,0 +1,10 @@
+
+[
+  {
+    "id": "ev-xmas",
+    "name": "Christmas Blizzard",
+    "description": "Special winter event with limited rewards.",
+    "imageUrl": "https://picsum.photos/seed/xmas/300/300",
+    "category": "Christmas"
+  }
+]

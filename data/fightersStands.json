@@ -1,0 +1,23 @@
+
+{
+  "damageStands": [
+    { "name": "Door", "atkSpeed": "1s", "stats": "15.1%", "star1Stats": "22.7%", "star2Stats": "30.2%", "star3Stats": "45.3%" },
+    { "name": "Hand", "atkSpeed": "0.9s", "stats": "15.2%", "star1Stats": "23%", "star2Stats": "30.4%", "star3Stats": "45.6%" },
+    { "name": "Zipper Man", "atkSpeed": "0.8s", "stats": "15.3%", "star1Stats": "23%", "star2Stats": "30.6%", "star3Stats": "45.9%" },
+    { "name": "Deadly Queen", "atkSpeed": "0.7s", "stats": "15.4%", "star1Stats": "23%", "star2Stats": "30.8%", "star3Stats": "46.2%" },
+    { "name": "Pale Snake", "atkSpeed": "0.6s", "stats": "15.5%", "star1Stats": "23%", "star2Stats": "31%", "star3Stats": "46.5%" },
+    { "name": "Shinning Diamond", "atkSpeed": "0.5s", "stats": "15.6%", "star1Stats": "23%", "star2Stats": "31.2%", "star3Stats": "46.8%" },
+    { "name": "Platinum", "atkSpeed": "0.35s", "stats": "15.7%", "star1Stats": "24%", "star2Stats": "31.4%", "star3Stats": "47.1%" },
+    { "name": "World", "atkSpeed": "0.2s", "stats": "15.8%", "star1Stats": "24%", "star2Stats": "31.6%", "star3Stats": "47.4%" }
+  ],
+  "enchantStands": [
+    { "name": "Common Requiem", "stats": "+5% DMG", "chances": "40.46%" },
+    { "name": "Uncommon Requiem", "stats": "+10% DMG", "chances": "33%" },
+    { "name": "Rare Requiem", "stats": "+15% DMG", "chances": "19.9%" },
+    { "name": "Epic Requiem", "stats": "+20% DMG", "chances": "5%" },
+    { "name": "Legendary Requiem", "stats": "+25% DMG", "chances": "1%" },
+    { "name": "Mythical Requiem", "stats": "+30% DMG", "chances": "0.5%" },
+    { "name": "Phantom Requiem", "stats": "+35% DMG", "chances": "0.1%" },
+    { "name": "Supreme Requiem", "stats": "+45% DMG", "chances": "0.04%" }
+  ]
+}

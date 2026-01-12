@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prestige-level-1",
+    "name": "Prestige 1",
+    "prestigeLevelNumber": 1,
+    "levelReq": 200,
+    "levelCap": 210,
+    "pointsPerLevel": 2,
+    "expMulti": "0.1x"
+  },
+  {
+    "id": "prestige-level-2",
+    "name": "Prestige 2",
+    "prestigeLevelNumber": 2,
+    "levelReq": 210,
+    "levelCap": 220,
+    "pointsPerLevel": 3,
+    "expMulti": "0.2x"
+  },
+  {
+    "id": "prestige-level-3",
+    "name": "Prestige 3",
+    "prestigeLevelNumber": 3,
+    "levelReq": 220,
+    "levelCap": 230,
+    "pointsPerLevel": 4,
+    "expMulti": "0.3x"
+  },
+  {
+    "id": "prestige-level-4",
+    "name": "Prestige 4",
+    "prestigeLevelNumber": 4,
+    "levelReq": 230,
+    "levelCap": 250,
+    "pointsPerLevel": 5,
+    "expMulti": "0.4x"
+  },
+  {
+    "id": "prestige-level-5",
+    "name": "Prestige 5",
+    "prestigeLevelNumber": 5,
+    "levelReq": 250,
+    "levelCap": 270,
+    "pointsPerLevel": 6,
+    "expMulti": "0.5x"
+  },
+  {
+    "id": "prestige-level-6",
+    "name": "Prestige 6",
+    "prestigeLevelNumber": 6,
+    "levelReq": 270,
+    "levelCap": 300,
+    "pointsPerLevel": 7,
+    "expMulti": "0.6x"
+  },
+  {
+    "id": "prestige-level-7",
+    "name": "Prestige 7",
+    "prestigeLevelNumber": 7,
+    "levelReq": 300,
+    "levelCap": 330,
+    "pointsPerLevel": 8,
+    "expMulti": "0.7x"
+  },
+  {
+    "id": "prestige-level-8",
+    "name": "Prestige 8",
+    "prestigeLevelNumber": 8,
+    "levelReq": 330,
+    "levelCap": 360,
+    "pointsPerLevel": 9,
+    "expMulti": "0.8x"
+  },
+  {
+    "id": "prestige-level-9",
+    "name": "Prestige 9",
+    "prestigeLevelNumber": 9,
+    "levelReq": 360,
+    "levelCap": 400,
+    "pointsPerLevel": 10,
+    "expMulti": "0.9x"
+  },
+  {
+    "id": "prestige-level-10",
+    "name": "Prestige 10",
+    "prestigeLevelNumber": 10,
+    "levelReq": 400,
+    "levelCap": 500,
+    "pointsPerLevel": 11,
+    "expMulti": "1x"
+  }
+]

@@ -1,0 +1,22 @@
+
+{
+  "damageTitans": [
+    { "name": "Jaw Titan", "atkSpeed": "1s", "stats": "5%", "star1Stats": "7.5%", "star2Stats": "10%", "star3Stats": "15%" },
+    { "name": "Female Titan", "atkSpeed": "1s", "stats": "10%", "star1Stats": "15%", "star2Stats": "20%", "star3Stats": "25%" },
+    { "name": "Beast Titan", "atkSpeed": "1s", "stats": "15%", "star1Stats": "22.5%", "star2Stats": "30%", "star3Stats": "45%" },
+    { "name": "Armored Titan", "atkSpeed": "1s", "stats": "20%", "star1Stats": "30%", "star2Stats": "40%", "star3Stats": "60%" },
+    { "name": "Warhammer Titan", "atkSpeed": "1s", "stats": "25%", "star1Stats": "37.5%", "star2Stats": "50%", "star3Stats": "75%" },
+    { "name": "Attack Titan", "atkSpeed": "1s", "stats": "30%", "star1Stats": "45%", "star2Stats": "60%", "star3Stats": "90%" },
+    { "name": "Colossal Titan", "atkSpeed": "1s", "stats": "40%", "star1Stats": "60%", "star2Stats": "80%", "star3Stats": "120%" }
+  ],
+  "enchantTitans": [
+    { "name": "Common Injection", "stats": "+5% DMG", "chances": "40.46%" },
+    { "name": "Uncommon Injection", "stats": "+10% DMG", "chances": "33%" },
+    { "name": "Rare Injection", "stats": "+15% DMG", "chances": "19.9%" },
+    { "name": "Epic Injection", "stats": "+20% DMG", "chances": "5%" },
+    { "name": "Legendary Injection", "stats": "+25% DMG", "chances": "1%" },
+    { "name": "Mythical Injection", "stats": "+30% DMG", "chances": "0.5%" },
+    { "name": "Phantom Injection", "stats": "+35% DMG", "chances": "0.1%" },
+    { "name": "Supreme Injection", "stats": "+45% DMG", "chances": "0.04%" }
+  ]
+}

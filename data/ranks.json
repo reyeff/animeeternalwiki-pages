@@ -1,0 +1,10 @@
+
+[
+  {
+    "id": "rank-s",
+    "name": "S-Class Hero",
+    "description": "Reserved for the strongest 1% of the playerbase.",
+    "imageUrl": "https://picsum.photos/seed/rank-s/300/300",
+    "tier": "Legendary"
+  }
+]

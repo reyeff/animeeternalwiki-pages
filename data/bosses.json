@@ -1,0 +1,12 @@
+
+[
+  {
+    "id": "boss-cell",
+    "name": "Perfect Bio-Droid",
+    "description": "A creature made of the strongest fighters' cells.",
+    "imageUrl": "https://picsum.photos/seed/boss-cell/300/300",
+    "location": "Cell Games Arena",
+    "health": "500M",
+    "drops": ["Cell Nucleus", "Perfect DNA"]
+  }
+]

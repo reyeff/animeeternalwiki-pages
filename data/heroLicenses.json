@@ -1,0 +1,920 @@
+[
+  {
+    "id": "lic-rookie",
+    "name": "F Class Licenses",
+    "description": "Standard certification for new heroes entering the association.",
+    "imageUrl": "https://i.postimg.cc/Qtgzff5p/Licenses-003113.png",
+    "tier": "Common",
+    "locationQuest": "World-1",
+    "stats": {
+      "energy": "1x",
+      "damage": "1x"
+    },
+    "steps": [
+      {
+        "id": "step-1",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Kriluni (Rank E / World-1)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-2",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Dragon Race Token",
+            "amount": "500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153146219",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Usup (Rank D / World-2)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153159563",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Haki Token",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153170275",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Uryua (Rank C / World-3)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153188675",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Rangaki (Rank SS / World-5)",
+            "amount": "25"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153189091",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Easy Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "collect",
+            "target": "Breathing Token",
+            "amount": "2000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lic-pro",
+    "name": "E Class Licenses",
+    "description": "Granted to heroes who have proven their worth in multiple world threats.",
+    "imageUrl": "https://i.postimg.cc/ZRPQww3d/Licenses-003117.png",
+    "tier": "Uncommon",
+    "locationQuest": "World-6",
+    "stats": {
+      "energy": "2x",
+      "damage": "2x"
+    },
+    "steps": [
+      {
+        "id": "step-1",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "White Tiger (Rank C / World-6)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-2",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Grimore Token",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153717323",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Statue of God (Rank SS / World-6)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153742483",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Eye Token",
+            "amount": "2500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153754139",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Madera (Rank SS / World-8)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153777610",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Medium Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "collect",
+            "target": "Granny Token",
+            "amount": "3000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153806251",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Hard Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "defeat",
+            "target": "Turbo (Rank SS / World-9)",
+            "amount": "25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lic-supreme",
+    "name": "D Class Licenses",
+    "description": "The ultimate rank. Reserved for those whose power rivals the gods themselves.",
+    "imageUrl": "https://i.postimg.cc/vB7K0097/Licenses-003122.png",
+    "tier": "Rare",
+    "locationQuest": "World-10",
+    "stats": {
+      "energy": "3x",
+      "damage": "3x"
+    },
+    "steps": [
+      {
+        "id": "step-1",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Hisoker (Rank A / World-10)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-2",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Titan Token",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153893947",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Lavi (Rank S / World-11)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153894403",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Sin Token",
+            "amount": "2500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153894899",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Killas Godspeed (Rank SS / World-10)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153895410",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Esanor (Rank SS / World-12)",
+            "amount": "25"
+          },
+          {
+            "type": "collect",
+            "target": "Kaiju Token",
+            "amount": "3000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768153895994",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Insane Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "defeat",
+            "target": "Valzora (Rank SS / World-14)",
+            "amount": "25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "C Class Licenses",
+    "imageUrl": "https://i.postimg.cc/9MPkLLTd/Licenses-003126.png",
+    "tier": "Epic",
+    "locationQuest": "World-15",
+    "stats": {
+      "energy": "4x",
+      "damage": "4x"
+    },
+    "steps": [
+      {
+        "id": "step-1768154100355",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Asana (Rank A / World-15)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154119258",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Weapon Rune Token",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154123314",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Jokaro (Rank S / World-16)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154123850",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Requiem Token",
+            "amount": "2500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154124386",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Paladin (Rank SS / World-15)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154124867",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Kanny (Rank S / World-17)",
+            "amount": "25"
+          },
+          {
+            "type": "collect",
+            "target": "Kagune Token",
+            "amount": "3000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154125386",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Crazy Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "defeat",
+            "target": "Arama (Rank SS / World-17)",
+            "amount": "25"
+          }
+        ]
+      }
+    ],
+    "id": "item-1768154235163"
+  },
+  {
+    "name": "B Class Licenses",
+    "imageUrl": "https://i.postimg.cc/85dYZZWb/Licenses-003130.png",
+    "tier": "Legendary",
+    "locationQuest": "World-18",
+    "stats": {
+      "energy": "5x",
+      "damage": "5x"
+    },
+    "steps": [
+      {
+        "id": "step-1768154277434",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Makoni (Rank S / World-18)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154278386",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Akuma Token",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154278978",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Iriso (Rank A / World-19)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154279514",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Pokita Token",
+            "amount": "2500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154280058",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Mr Chainsaw (Rank SS / World-18)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154280474",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Hero of Hell (Rank SSS / World-18)",
+            "amount": "25"
+          },
+          {
+            "type": "defeat",
+            "target": "Adolla Token",
+            "amount": "3000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154280802",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Nightmare Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "collect",
+            "target": "Adolla Blessing Token",
+            "amount": "5000"
+          }
+        ]
+      }
+    ],
+    "id": "item-1768154410939"
+  },
+  {
+    "name": "A Class Licenses",
+    "imageUrl": "https://i.postimg.cc/ZnTM26F3/Licenses-003137.png",
+    "tier": "Mythical",
+    "locationQuest": "World-22",
+    "stats": {
+      "energy": "6x",
+      "damage": "6x"
+    },
+    "steps": [
+      {
+        "id": "step-1768154449194",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Koku SSJ (Rank SS / World-20)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154449731",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Eternal Dragon Token",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154450275",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Cifer (Rank SS / World-21)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154450818",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Dragon Blessing Token",
+            "amount": "2500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154451242",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Alpha (Rank S / World-22)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154451682",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Blood Queen (Rank SS / World-22)",
+            "amount": "25"
+          },
+          {
+            "type": "collect",
+            "target": "Eminence Coin",
+            "amount": "2000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154452154",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Suffer Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "collect",
+            "target": "Art Level Token",
+            "amount": "5000"
+          }
+        ]
+      }
+    ],
+    "id": "item-1768154621372"
+  },
+  {
+    "name": "A+ Class Licenses",
+    "imageUrl": "https://i.postimg.cc/SRyv3c7c/Licenses_003145.png",
+    "tier": "Phantom",
+    "locationQuest": "World-25",
+    "stats": {
+      "energy": "8x",
+      "damage": "8x"
+    },
+    "steps": [
+      {
+        "id": "step-1768154838451",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Lord Boro (Rank SS / World-23)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154839003",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Punch Token",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154840130",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Anz Ool  Gawn (Rank SSS / World-24)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154840554",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Ultimate Cast Token",
+            "amount": "2500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154840898",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Orrs (Rank S / World-25)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154841218",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Gekar Morra (Rank SSS / World-25)",
+            "amount": "25"
+          },
+          {
+            "type": "collect",
+            "target": "Special Zombie Token",
+            "amount": "2000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768154841602",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Adventure Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "collect",
+            "target": "Zombie Glue",
+            "amount": "1"
+          }
+        ]
+      }
+    ],
+    "id": "item-1768155002107"
+  },
+  {
+    "name": "S Class Licenses",
+    "imageUrl": "https://i.postimg.cc/0j8BF7dG/Licenses_003150.png",
+    "tier": "Phantom",
+    "locationQuest": "World-27",
+    "stats": {
+      "energy": "10x",
+      "damage": "10x"
+    },
+    "steps": [
+      {
+        "id": "step-1768155037291",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Tagamura (Rank SSS / World-26)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155038426",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Assasin Flow Coin",
+            "amount": "5"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155039146",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Takemoto (Rank SSS / World-26)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155039714",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Lethal Coin",
+            "amount": "5"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155040122",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Bellatrice (Rank SS / World-27)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155040618",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Roswald (Rank SSS / World-27)",
+            "amount": "25"
+          },
+          {
+            "type": "collect",
+            "target": "Gospel Cursed Token",
+            "amount": "2000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155041098",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Torment Dungeon",
+            "amount": "50"
+          },
+          {
+            "type": "collect",
+            "target": "Witch Authority Token",
+            "amount": "2000"
+          }
+        ]
+      }
+    ],
+    "id": "item-1768155206435"
+  },
+  {
+    "name": "S+ Class Licenses",
+    "imageUrl": "https://i.postimg.cc/BbqVk2cB/Licenses_003156.png",
+    "tier": "Phantom",
+    "locationQuest": "World-30",
+    "stats": {
+      "energy": "12x",
+      "damage": "12x"
+    },
+    "steps": [
+      {
+        "id": "step-1768155243674",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Emperor Reloush (Rank SSS / World-28)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155244187",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Pearls Materials",
+            "amount": "1000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155244754",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Tsukaro (Rank SSS / World-29)",
+            "amount": "75"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155245170",
+        "requirements": [
+          {
+            "type": "collect",
+            "target": "Acids Materials",
+            "amount": "500"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155245530",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Gaari (Rank SS / World-30)",
+            "amount": "50"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155245898",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Sasaru (Rank SSS / World-30)",
+            "amount": "25"
+          },
+          {
+            "type": "collect",
+            "target": "Genkai Token",
+            "amount": "2000"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155246218",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Maze 3",
+            "amount": "35"
+          },
+          {
+            "type": "collect",
+            "target": "Eye Token 2",
+            "amount": "2000"
+          }
+        ]
+      }
+    ],
+    "id": "item-1768155517947"
+  },
+  {
+    "name": "SS Class Licenses",
+    "imageUrl": "https://i.postimg.cc/C5FQXbHN/Licenses_003204.png",
+    "tier": "Supreme",
+    "locationQuest": "World-33",
+    "stats": {
+      "energy": "15x",
+      "damage": "15x"
+    },
+    "steps": [
+      {
+        "id": "step-1768155544162",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Akara (Rank SSS / World-31)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155544683",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Mob 100% (Rank SS / World-32)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155545626",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Dimpy (Rank SSS / World-32)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155545979",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Giutero (Rank SS / World-33)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155546275",
+        "requirements": [
+          {
+            "type": "defeat",
+            "target": "Akazi (Rank SSS / World-33)",
+            "amount": "100"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155546594",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Maze 4",
+            "amount": "35"
+          }
+        ]
+      },
+      {
+        "id": "step-1768155546938",
+        "requirements": [
+          {
+            "type": "dungeon",
+            "target": "Mugen Dungeon",
+            "amount": "10"
+          }
+        ]
+      }
+    ],
+    "id": "item-1768155648656"
+  }
+]

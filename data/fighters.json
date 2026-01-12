@@ -1,0 +1,39 @@
+
+[
+  {
+    "id": "fighters-shadows",
+    "name": "Fighter",
+    "type": "Shadows",
+    "description": "Mysterious beings wielding dark powers.",
+    "imageUrl": "https://i.postimg.cc/DwtPpKvq/Fighters-232858.png",
+    "tier": "Epic",
+    "themeColor": "bg-purple-600"
+  },
+  {
+    "id": "fighters-titans",
+    "name": "Fighter",
+    "type": "Titans",
+    "description": "Colossal warriors with immense strength.",
+    "imageUrl": "https://i.postimg.cc/Sxwf1pSC/Fighters-232906.png",
+    "tier": "Mythical",
+    "themeColor": "bg-red-600"
+  },
+  {
+    "id": "fighters-stands",
+    "name": "Fighter",
+    "type": "Stands",
+    "description": "Manifestations of fighting spirit.",
+    "imageUrl": "https://i.postimg.cc/P5BQVkXZ/Fighters-232916.png",
+    "tier": "Rare",
+    "themeColor": "bg-cyan-500"
+  },
+  {
+    "id": "fighters-zombie",
+    "name": "Fighter",
+    "type": "Zombie",
+    "description": "Undead hordes that overwhelm their foes.",
+    "imageUrl": "https://i.postimg.cc/t4LNvHqF/Fighters-232929.png",
+    "tier": "Uncommon",
+    "themeColor": "bg-green-600"
+  }
+]

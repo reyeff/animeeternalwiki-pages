@@ -1,0 +1,144 @@
+[
+  {
+    "id": "update-v1.5.0",
+    "name": "Update 32 Part 3",
+    "date": "2026-01-06",
+    "featuring": [
+      "Maze Level 6 – World 35",
+      "Rune VIII – Drops inside Maze Level 6 (Includes Exotic Rune Rarity)",
+      "“Maze 6 Power Box” – Drops inside Maze Level 6 → Contains Mythical, Phantom & Supreme Maze Powers",
+      "“Maze 6 Power Box” also has a 0.05% chance to drop from any enemy in Maze Level 6",
+      "Added Damage Stat to Slayer Progression",
+      "Items can now be leveled up or enchanted without unequipping or unlocking",
+      "Teleport menus now show check marks for completed gachas, upgrades, and progression → (Crafting & Leveling support coming in future updates)"
+    ],
+    "changes": [
+      "Increased daily limit of Restaurant Key 6 → 9",
+      "Increased daily limit of Cursed Key 6 → 9",
+      "Increased daily limit of Progression Key 3 → 9",
+      "Increased daily limit of Progression Key 2 3 → 9",
+      "All Accessories with EXP stats changed from EXP Percent → EXP Multiply",
+      "All EXP Auras stats changed from EXP Percent → EXP Multiply",
+      "Increased Player Damage Level Cap 4000 → 5500",
+      "Increased Player Energy Level Cap 4000 → 5500"
+    ],
+    "codes": [
+      "Update32P3",
+      "Update32P3Code",
+      "Update32P3Code2",
+      "Update32P3Code3",
+      "820KFav",
+      "Super32Part3Code",
+      "Super32Part3Code2"
+    ]
+  },
+  {
+    "id": "update-v1.4.1",
+    "name": "Update 32 Part 2",
+    "date": "2026-01-04",
+    "featuring": [
+      "New Prestige 10 – Max Level 500",
+      "Magic Items Evolve – World 36 (Max Level 100; Tokens drop from all enemies in World 36)",
+      "7 New Magic Items – Drops & Crafting (World 36)",
+      "Magic Items Crafting – World 36",
+      "More EXP Upgrades – Dungeon Lobby Upgrades",
+      "EXP Stat added to Slayer Progression",
+      "Buffed Slayer Progression 1.6x → 4x"
+    ],
+    "changes": [
+      "Increased Player Coins Level Cap 1500 → 2000",
+      "Increased Player Energy Level Cap 3500 → 4000",
+      "Lowered enemy health in Breathing Raid",
+      "Removed all Christmas Chests"
+    ],
+    "codes": [
+      "Update32P2",
+      "Update32P2Code",
+      "Update32P2Code2",
+      "Update32P2Code3",
+      "815KFav",
+      "Update32Part2RestartCode"
+    ]
+  },
+  {
+    "id": "update-v1.4.0",
+    "name": "Update 32 – Magnolia Town",
+    "date": "2026-01-02",
+    "featuring": [
+      "New World 36 – Magnolia Town",
+      "Dragon Booster (Progression) – World 35",
+      "Mage Class (Gacha) – World 36",
+      "Dragon Evolution (Gacha) – World 36",
+      "Magic Items (Drop) – World 36 (More coming in Part 2)",
+      "+5 Rank Up",
+      "New Exclusive Pack",
+      "New Exclusive Star"
+    ],
+    "changes": [],
+    "codes": [
+      "Update32",
+      "Update32Code",
+      "Update32Code2",
+      "Update32Code3",
+      "295MVisits"
+    ]
+  },
+  {
+    "name": "Update 33 – Lute Village",
+    "description": "",
+    "imageUrl": "https://picsum.photos/seed/AE/400/400",
+    "date": "2026-01-09",
+    "featuring": [
+      "New World 37 – Lute Village",
+      "Magic Shield (Gacha) – World 37",
+      "Vassal Weapons (Gacha) – World 37",
+      "Legendary Weapon Powers (Drop) – World 37",
+      "Legendary Shield Leveling – World 37",
+      "Legendary Bow Leveling – World 37",
+      "Legendary Spear Leveling – World 37",
+      "Legendary Sword Leveling – World 37",
+      "+5 Rank Up",
+      "New Exclusive Pack",
+      "New Exclusive Star"
+    ],
+    "changes": [],
+    "codes": [
+      "Update33",
+      "Update33Code",
+      "Update33Code2",
+      "Update33Code3",
+      "825KFav"
+    ],
+    "id": "item-1767975894371"
+  },
+  {
+    "name": "Update 33 Part 2",
+    "date": "2026-01-11",
+    "featuring": [
+      "New Raid – Calamity Raid (Solo) – World 37",
+      "Calamity Raid Achievements",
+      "Calamity Raid Leaderboard",
+      "Calamity Raid Chat Tag",
+      "Legendary Sword Blessing (Enchantments) – World 37 → Tokens earned from Calamity Raid Achievements",
+      "Legendary Shield Blessing (Enchantments) – World 37 → Tokens earned from Calamity Raid Achievements",
+      "New Aura – Fire Dragon Slayer Aura (World 36)",
+      "More Tournament Raid Achievements"
+    ],
+    "changes": [
+      "Buffed Scientific Tools Energy & Damage x2 → x2.5",
+      "Cursed Raid – Sword Tokens in Cursed Box increased 3–5 → 4–6",
+      "Cursed Raid – Tokens in Cursed Box increased 3–5 → 3–6",
+      "Restaurant Raid – Tokens in Restaurant Box increased 3–5 → 3–6",
+      "Buffed Power of Labyrinth Energy x2 → x4"
+    ],
+    "codes": [
+      "Update33P2",
+      "Update33P2Code",
+      "Update33P2Code2",
+      "Update33P2Code3",
+      "830KFav",
+      "P2Ultra33Code"
+    ],
+    "id": "item-1768175419247"
+  }
+]

@@ -1,0 +1,10 @@
+
+[
+  {
+    "id": "weapon-1",
+    "name": "Z-Sword",
+    "description": "An incredibly heavy sword embedded in stone.",
+    "imageUrl": "https://picsum.photos/seed/weapon-1/300/300",
+    "tier": "Exotic"
+  }
+]

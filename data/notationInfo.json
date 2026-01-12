@@ -1,0 +1,9 @@
+
+[
+  {
+    "id": "not-sci",
+    "name": "Scientific Notation",
+    "description": "Standard way of displaying massive power levels.",
+    "imageUrl": "https://picsum.photos/seed/math/300/300"
+  }
+]

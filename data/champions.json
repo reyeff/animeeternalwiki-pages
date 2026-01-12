@@ -1,0 +1,10 @@
+
+[
+  {
+    "id": "champ-1",
+    "name": "Goku Blue",
+    "description": "A powerhouse champion from the heavens.",
+    "imageUrl": "https://picsum.photos/seed/champ-1/300/300",
+    "tier": "Mythic"
+  }
+]

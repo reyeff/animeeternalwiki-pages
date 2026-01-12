@@ -1,0 +1,10 @@
+
+[
+  {
+    "id": "mob-saiba",
+    "name": "Saibaman",
+    "description": "Small green creatures grown from seeds.",
+    "imageUrl": "https://picsum.photos/seed/mob-1/300/300",
+    "tier": "Common"
+  }
+]
